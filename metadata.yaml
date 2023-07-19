@@ -1,0 +1,40 @@
+_repo: Travels-in-Nubia_71129
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Leake, William Martin
+    gutenberg_agent_id: '56086'
+    url: http://www.gutenberg.org/2009/agents/56086
+creator:
+  author:
+    agent_name: Burckhardt, John Lewis
+    alias: Burckhardt, J. Louis
+    birthdate: 1784
+    deathdate: 1817
+    gutenberg_agent_id: '2916'
+    url: http://www.gutenberg.org/2009/agents/2916
+    wikipedia: https://en.wikipedia.org/wiki/Johann_Ludwig_Burckhardt
+  editor:
+    agent_name: Africa, Association for Promoting the Discovery of the Interior Parts
+      of
+    gutenberg_agent_id: '56087'
+    url: http://www.gutenberg.org/2009/agents/56087
+description: ''
+gutenberg_issued: '2023-07-06'
+identifiers:
+  gutenberg: '71129'
+language: en
+pgterms:marc904: https://archive.org/details/travelsinnubia00burc
+pgterms:marc905: 20230615232148burckhardt
+pgterms:marc906: '1819'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1819.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Travels in Nubia
+url: http://www.gutenberg.org/ebooks/71129
