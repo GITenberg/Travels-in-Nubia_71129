@@ -5,6 +5,9 @@ contributor:
     agent_name: Leake, William Martin
     gutenberg_agent_id: '56086'
     url: http://www.gutenberg.org/2009/agents/56086
+covers:
+- cover_type: archival
+  image_path: 71129-h/images/cover.jpg
 creator:
   author:
     agent_name: Burckhardt, John Lewis
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '56087'
     url: http://www.gutenberg.org/2009/agents/56087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71129#Travels-in-Nubia
 gutenberg_issued: '2023-07-06'
 identifiers:
   gutenberg: '71129'
